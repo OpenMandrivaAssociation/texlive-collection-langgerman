@@ -1,4 +1,4 @@
-# revision 30960
+# revision 32954
 # category Collection
 # catalog-ctan undef
 # catalog-date undef
@@ -6,8 +6,8 @@
 # catalog-version undef
 Name:		texlive-collection-langgerman
 Epoch:		1
-Version:	20131013
-Release:	5
+Version:	20140215
+Release:	1
 Summary:	German
 Group:		Publishing
 URL:		http://tug.org/texlive
@@ -58,7 +58,7 @@ Requires:	texlive-translation-filecontents-de
 Requires:	texlive-translation-moreverb-de
 Requires:	texlive-udesoftec
 Requires:	texlive-umlaute
-Requires:	texlive-voss-de
+Requires:	texlive-voss-mathcol
 
 %description
 Support for German.
