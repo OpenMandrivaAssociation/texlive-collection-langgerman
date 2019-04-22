@@ -6,8 +6,8 @@
 # catalog-version undef
 Name:		texlive-collection-langgerman
 Epoch:		1
-Version:	20180303
-Release:	2
+Version:	20180907
+Release:	1
 Summary:	German
 Group:		Publishing
 URL:		http://tug.org/texlive
