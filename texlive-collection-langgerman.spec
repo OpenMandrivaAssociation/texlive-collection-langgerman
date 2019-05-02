@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-collection-langgerman
 Epoch:		1
-Version:	20180907
+Version:	20190228
 Release:	1
 Summary:	German
 Group:		Publishing
