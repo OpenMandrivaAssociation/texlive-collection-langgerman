@@ -1,7 +1,7 @@
 Name:		texlive-collection-langgerman
 Epoch:		1
-Version:	55706
-Release:	2
+Version:	68711
+Release:	1
 Summary:	German
 Group:		Publishing
 URL:		http://tug.org/texlive
