@@ -1,6 +1,6 @@
 Name:		texlive-collection-langgerman
 Epoch:		1
-Version:	68711
+Version:	74675
 Release:	1
 Summary:	German
 Group:		Publishing
